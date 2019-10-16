@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../butyrylation/.idea/butyrylation.iml" filepath="$PROJECT_DIR$/../butyrylation/.idea/butyrylation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machinelearning-100/.idea/machinelearning-100.iml" filepath="$PROJECT_DIR$/../machinelearning-100/.idea/machinelearning-100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../propionylation/.idea/propionylation.iml" filepath="$PROJECT_DIR$/../propionylation/.idea/propionylation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-100.iml" filepath="$PROJECT_DIR$/.idea/python-100.iml" />
     </modules>
   </component>
